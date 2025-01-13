@@ -1,0 +1,42 @@
+ .container {display:grid;
+    justify-content: center;
+     height: 900px;
+     border: 5px, solid,blue;
+     margin: 10em;
+     font-weight: 700;
+     font-size: 30px;
+}
+
+.family { margin: 0;
+border: 2px,solid,grey;
+margin: 5px;
+justify-content: center;
+padding: 10px;
+height: 200px;
+display: flex;
+vertical-align: center;
+} 
+
+.gender { margin: 0;
+   border: 2px,solid,grey;
+   margin: 5px;
+   justify-content: center;
+   padding: 10px;
+   padding-top:40;
+   margin-top: 50px;
+   height: 200px;
+   top: 50%;
+   display: flex;
+   vertical-align: center;
+}
+.name {margin: 0;
+   border: 2px,solid,grey;
+   margin: 5px;
+   justify-content: center;
+   padding: 10px;
+   height: 200px;
+   display: flex;
+}
+.window {padding: 20px;}
+
+p {top: 50%;}
